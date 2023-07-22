@@ -1,0 +1,12 @@
+this file has been created for practicing 
+working diirectory                staging directoryy                     local repo                      remote repo
+
+
+  file1 --------------> (git add) ------> (file1)------> (git commit -m) ---file1------->( push -u)------> file 1
+
+
+remote -v 
+
+git log
+
+
