@@ -3,6 +3,12 @@ this file contaion bd logic
 updating a new line
 
 
+ stage
+------------------
+
+iam in master branch 
+updating this file for practicing merge after commit
+
 
 
 
@@ -12,5 +18,9 @@ created in master branch
 
 done !
 
+ development
 devlopment 
   
+
+ master
+ master
